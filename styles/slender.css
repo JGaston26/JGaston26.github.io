@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: white;
+}
+h1.dev{
+    color: rebeccapurple;
+}
+body {
+    font-family:"Comic Sans MS", serif;
+    font-size:13px;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:1.7em;
+    background-image:url('https://www.geocities.ws/ratusnorvegicus/bats.gif');
+
+}
+img{
+    display: block;
+    margin: auto;
+}
+p {
+    text-align: center;
+    font-size: 5px;
+    color:#36013F;
+}

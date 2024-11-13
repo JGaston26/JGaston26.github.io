@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Login</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="../styles/homePageStyle.css">
+<style></style>
+<script type="text/javascript" src="../JS_Files/index.js"></script>
+<body onload="init()">
+
+<div class="">
+    <h1 id="loginText">Login</h1>
+</div>
+<form>
+    <label for="usrname">Username: </label>
+    <input type="password" id="usrname">
+</form>
+<form>
+    <label for="pswd">Password: </label>
+    <input type="password" id="pswd">
+</form>
+<div>
+
+    <input id="submitButton" type="button" value="Submit" onclick="checkPswd() && checkUsr();" />
+</div>
+</body>
+</html>

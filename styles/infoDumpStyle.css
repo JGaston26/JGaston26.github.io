@@ -1,0 +1,54 @@
+div {
+    text-align: center;
+}
+body {
+    font-family:Arial, serif;
+    font-size:13px;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+    line-height:1.7em;
+    background-image:url('https://www.geocities.ws/ratusnorvegicus/bats.gif');
+
+}
+h1{
+    font-family: "Comic Sans MS", serif;
+    display: block;
+    text-align: center;
+    color: darkred;
+}
+img{
+    display: block;
+    float: right;
+    margin: 8px 0 0 20px;
+    padding: 4px;
+    height: 75%;
+    width: 75%;
+}
+a {
+    font-family: "Comic Sans MS", serif;
+    display: block;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 200px;
+    margin: 10px auto;
+}
+a.invasion{
+    color: rebeccapurple;
+}
+a.classic{
+    color: aqua;
+}
+a.slasher {
+    color: red;
+}
+a.king {
+    color: darkkhaki;
+}
+a.modern{
+    color: darkorange;
+}
