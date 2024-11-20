@@ -1,9 +1,17 @@
 h1{
     text-align: center;
     color: white;
+    line-height: 50px;
 }
 h1.dev{
     color: rebeccapurple;
+}
+h1.tic{
+    font-family : "Sans Serif Collection",serif;
+    font-size:35px;
+    font-style:normal;
+    color: dimgray;
+
 }
 body {
     font-family:"Comic Sans MS", serif;
@@ -18,7 +26,10 @@ body {
 img{
     display: block;
     margin: auto;
+    width:500px;
+    height:650px;
 }
+
 p {
     text-align: center;
     font-size: 5px;
